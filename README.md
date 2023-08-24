@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on:
-> * [Flask Cafe](https://github.com/evanhesketh/flask-cafe)
+> * [Public version of rental website for client](https://github.com/evanhesketh/rental-public)
 
 ## 🧑🏻‍💻 Technologies I frequently use: 
 
