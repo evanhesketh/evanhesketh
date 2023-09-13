@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on:
-> * [Public version of rental website for client](https://github.com/evanhesketh/rental-public)
+> * A private project
 
 ## 🧑🏻‍💻 Technologies I frequently use: 
 
