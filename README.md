@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on:
-> * A private project
+> * A contract project
 
 ## 🧑🏻‍💻 Technologies I frequently use: 
 
