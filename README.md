@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on:
-> * A contract project
+> [A Reddit style app built with Django](https://github.com/evanhesketh/django-seenit)
 
 ## 🧑🏻‍💻 Technologies I frequently use: 
 
@@ -9,6 +9,7 @@
 
 
 ## 🧗🏻 Currently leveling up in:
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" width="50" height="50">
 
 ## How to reach me:
 evanhesketh114@gmail.com
