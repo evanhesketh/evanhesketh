@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+#### Thanks for stopping by!
 
 ## 🧑🏻‍💻 Technologies I frequently use: 
 
